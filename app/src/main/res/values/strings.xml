@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">Verdadeiro</string>
+    <string name="false_button">Falso</string>
+
+    <string name="questao1">Os barbixas são fodas?</string>
+    <string name="questao2">Asaph foi trouxa?</string>
+    <string name="questao3">Ninguém riu de Asaph</string>
+
+    <string name="correct_toast">Correto!</string>
+    <string name="incorrect_toast">Inorreto!</string>
+</resources>
